@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Shaziduzzaman 👋
 
-<!--
-**mdshaziduzzaman/mdshaziduzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-focused professional with experience in application operations, workflow optimization, and building digital products.
 
-Here are some ideas to get you started:
+I enjoy transforming business requirements into practical systems and improving operational workflows through product thinking and experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### Chotobhai
+Service platform for managing customer requests and operational workflows.
+
+Live Product  
+https://chotobhai.com
+
+---
+
+### ThiTravels
+Travel services platform designed to manage travel packages, tour bookings, and operational workflows.
+
+Live Product  
+https://thitravels.com
+
+---
+
+### Import Management System
+Currently designing a system for managing import operations, supplier coordination, and workflow tracking using AI-assisted development.
+
+---
+
+## 🧠 Interests
+
+- Product Operations
+- Workflow Optimization
+- System Design
+- AI-assisted Development
+- Building Practical Business Tools
+
+---
+
+## 🔗 Connect
+
+GitHub  
+https://github.com/mdshaziduzzaman
+
+LinkedIn  
+https://linkedin.com/in/md-shazid
