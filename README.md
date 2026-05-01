@@ -29,6 +29,14 @@ Currently designing a system for managing import operations, supplier coordinati
 
 ---
 
+### 🔗 Al-Shaiba
+Dubai-based rental service platform for managing bookings, customer interactions, operational workflows, Financial Stuffs & HR System.
+
+**Live Product Demo**  
+alshaiba.inzatech.com
+
+---
+
 ## 🧠 Interests
 
 - Product Operations
