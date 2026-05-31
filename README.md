@@ -8,6 +8,14 @@ I enjoy transforming business requirements into practical systems and improving 
 
 ## 🚀 Projects
 
+### bondhu_foundation: Foundation Management System
+
+A full-stack web application for managing a foundation's financial activities including member deposits, expenses, and real-time balance tracking.
+
+🔗 Live Demo: https://bbb.free.nf/app/login?i=1
+
+---
+
 ### Chotobhai
 Service platform for managing customer requests and operational workflows.
 
